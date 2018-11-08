@@ -1,0 +1,7 @@
+out
+node_modules
+*.vsix
+.history
+.vscode-test
+private
+desktop.ini
