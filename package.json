@@ -14,9 +14,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "prototype",
+                "label": "prototype dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/prototype-color-theme.json"
+                "path": "./themes/prototype-dark.json"
+            },
+            {
+                "label": "prototype light",
+                "uiTheme": "vs",
+                "path": "./themes/prototype-light.json"
             }
         ]
     }
